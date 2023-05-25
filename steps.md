@@ -14,5 +14,4 @@
 - Chiedere il colore
     - Assegnare valore ad una variabile (e lo si verifica)
 
-- Unire questi dati formando la password
-- Inserire valore all' elemento html
+- Unire questi dati formando la password e inserirla nell' HTML
